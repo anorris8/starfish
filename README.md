@@ -8,6 +8,8 @@
   align = "right"
   style="margin: 0 auto; width: 182px; height: 200px">
 
+TESTING
+
 [![DOI](https://zenodo.org/badge/581059656.svg)](https://zenodo.org/badge/latestdoi/581059656) [![Anaconda_version](https://anaconda.org/egluckthaler/starfish/badges/version.svg
 )](https://anaconda.org/egluckthaler/starfish) [![Anaconda_downloads](https://anaconda.org/egluckthaler/starfish/badges/downloads.svg)](https://anaconda.org/egluckthaler/starfish) [![Anaconda_platforms](https://anaconda.org/egluckthaler/starfish/badges/platforms.svg
 )](https://anaconda.org/egluckthaler/starfish) [![Anaconda-Server Badge](https://anaconda.org/egluckthaler/starfish/badges/latest_release_date.svg)](https://anaconda.org/egluckthaler/starfish)
